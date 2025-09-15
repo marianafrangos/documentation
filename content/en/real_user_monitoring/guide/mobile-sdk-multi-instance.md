@@ -34,7 +34,7 @@ val logger = Logger.Builder(namedSdkInstance)
 
 Trace.enable(traceConfig, namedSdkInstance)
 
-// Open Telemetry (recommended)
+// OpenTelemetry (recommended)
 val tracer  = GlobalOpenTelemetry.get().getTracer("...")
 
 // Datadog API

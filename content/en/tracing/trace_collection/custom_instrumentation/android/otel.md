@@ -560,12 +560,12 @@ final Request:request = new Request.Builder()
 
 To provide a continuous trace inside a RxJava stream you need to follow the steps below:
 1. Add the [OpenTelemetry for RxJava][19] dependency into your project and follow the **Readme** file
-   for instructions. For example for a continuous trace you just have to add:
+   for instructions. For example, for a continuous trace you would add:
    ```kotlin
    TracingAssembly.enable()
    ```
-2. Then in your project open a scope when the Observable is subscribed and close it when it completes. Any span
-   created inside the stream operators will be displayed inside this scope (parent Span):
+2. Then, in your project, open a scope when the Observable is subscribed and close it when it completes. Any span
+   created inside the stream operators is displayed inside this scope (parent Span):
 
 {{< tabs >}}
 {{% tab "Kotlin" %}}
