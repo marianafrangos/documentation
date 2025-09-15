@@ -23,6 +23,7 @@ Send [traces][1] to Datadog from your Android applications with [Datadog's `dd-s
 * Optimized network usage with automatic bulk posts.
 
 {{% android-trace-datadog-api-waning %}}
+{{% android-otel-note %}}
 
 ## Setup
 

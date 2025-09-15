@@ -85,6 +85,8 @@ See [more iOS examples][1].
 {{% /tab %}}
 {{% tab "Android" %}}
 
+{{% android-otel-note %}}
+
 OpenTelemetry approach (recommended):
 ```kotlin
 import io.opentelemetry.api.GlobalOpenTelemetry

@@ -23,6 +23,7 @@ Send [traces][1] to Datadog from your Android applications with [Datadog's
 {{% otel-custom-instrumentation-lang %}}
 
 {{% android-trace-datadog-api-waning %}}
+{{% android-otel-note %}}
 
 ## Setup
 

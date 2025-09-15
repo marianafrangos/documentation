@@ -45,6 +45,6 @@ A warning appears when deobfuscation fails for a stack trace. If the stack trace
 {{< partial name="whats-next/whats-next.html" >}}
 
 [1]: /help
-[2]: https://github.com/DataDog/dd-sdk-android/blob/develop/MIGRATION.MD
+[2]: /real_user_monitoring/guide/mobile-sdk-upgrade
 [3]: https://app.datadoghq.com/source-code/setup/rum
 [4]: /real_user_monitoring/guide/debug-symbols
