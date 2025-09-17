@@ -1,6 +1,9 @@
 ---
 title: Unified Service Tagging
 further_reading:
+- link: https://www.datadoghq.com/blog/cloudcraft-observability-overlay
+  tag: Blog
+  text: Visually identify observability gaps with Cloudcraft in Datadog
 - link: "/getting_started/tagging/using_tags"
   tag: "Documentation"
   text: "Learn how to use tags in the Datadog app"

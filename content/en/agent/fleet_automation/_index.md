@@ -2,6 +2,9 @@
 title: Fleet Automation
 disable_toc: false
 further_reading:
+- link: https://www.datadoghq.com/blog/cloudcraft-observability-overlay
+  tag: Blog
+  text: Visually identify observability gaps with Cloudcraft in Datadog
 - link: "/remote_configuration"
   tag: "Documentation"
   text: "Find out more about Remote Configuration"
