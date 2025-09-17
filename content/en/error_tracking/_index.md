@@ -2,6 +2,9 @@
 title: Error Tracking
 disable_toc: false
 further_reading:
+- link: https://www.datadoghq.com/blog/go-error-handling
+  tag: Blog
+  text: A practical guide to error handling in Go
 - link: 'https://www.datadoghq.com/blog/error-tracking-and-github/'
   tag: 'Blog'
   text: 'Troubleshoot root causes with GitHub commit and ownership data in Error Tracking'
